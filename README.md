@@ -1,4 +1,4 @@
-https://i.postimg.cc/d1jKwK0r/20210430-173523.jpg
+<img src="https://i.postimg.cc/d1jKwK0r/20210430-173523.jpg"></img>
 # whatsinfoga
 Latest and advanced tool for whatsapp information gathering
 
